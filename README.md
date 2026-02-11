@@ -1,0 +1,1 @@
+this is not a ultimate release if there is any bug please report it so i will try to replicate the problem and fix it unfortunally i only have the g15 v1 keyboard but if you want to make it work with the speakers etcc that had the screen we could work toghether to make it work. i apologise if there is any spelling mistakes but this is not my native languege 
